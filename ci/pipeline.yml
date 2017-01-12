@@ -2,7 +2,7 @@ resources:
 - name: flight-school
   type: git
   source:
-    url: https://github.com/godleon/flight-school.git
+    uri: https://github.com/godleon/flight-school
     branch: master
 
 jobs:
